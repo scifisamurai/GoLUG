@@ -1,0 +1,22 @@
+1. A brief summary of the business / site goals.
+Attract new and experienced people with an interest in the GNU/Linux Operating
+System.  The main goal is to interest users into attending our
+meetings. Some sub goals are to convince users to get in contact with other GoLUG
+members, learn what GoLUG is all about, and maintain a history of
+presentations (past & future).
+
+2. The key users:
+New users that don't know anything about Linux,experienced users that know a
+ton already about Linux, intermediate users that know some things about Linux.
+All of the above users may also already know about GoLUG while others do not.
+
+3. Scenarios in which your app or site will be used:
+I expect certain users (regardless of experience) to come to the site just to find
+out information about the next meeting.  I expect other users to not know much about GoLUG 
+or Linux and will want to know more and/or if it's something worth their time.  
+Some other users will already know about Linux and will be interested 
+in finding other like minded individuals.  
+
+
+4. Design principles to follow:
+Balance, hierarchy, emphasis, white space
