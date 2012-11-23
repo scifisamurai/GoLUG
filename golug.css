@@ -1,5 +1,5 @@
       body {
-        font-family: "Helvetica";
+        font-family: "Helvetica"; /* sans-serif font to enable easy reading by users */
         width:100%;
       }
       
@@ -8,15 +8,30 @@
       }
 
       .header {
+        /* The Courier typeface is used because 
+         * it's available on Linux, Mac, & Windows. 
+         *
+         * It also looks like a typewriter font.  
+         *
+         * This will hopefully convey the feeling 
+         * of technology to the end user */
+        font-family:"Courier"; /* slab serif */
         padding:30px 0;
         margin-left:auto;
         margin-right:auto;
         text-align:center;
       }
 
+      h2,h3{
+        /* Stick with the same typeface as our main site 
+         * header, but use a different font for emphasis */
+        font-family:"Courier Bold";
+      }
+
       .content {
       }
 
+      /*3 column grid */
       .center_column{
         width:31%;
         float:left;
@@ -33,7 +48,9 @@
         line-height:1.6em;
       }
       p{
-        line-height:1.3em;
+        /* With large chunks of text (like paragraphs) 1.3em
+         * keeps the text more compact and easier to read */
+        line-height:1.3em; 
       }
 
       .subsection{
