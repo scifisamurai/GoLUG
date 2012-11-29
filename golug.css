@@ -19,7 +19,7 @@
          * This will hopefully convey the feeling 
          * of technology to the end user */
         font-family:"Courier New", Courier, monospace; /* monospace typeface */
-        font-size:27px;
+        font-size:23px;
         padding:30px 0;
         margin-left:auto;
         margin-right:auto;
@@ -34,10 +34,8 @@
       }
 
 
-
-
       h2{
-        font-size:25px;
+        font-size:30px;
       }
 
       #NextMeeting{
