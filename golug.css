@@ -34,12 +34,21 @@
       }
 
       #NextMeeting{
-        background-color:lightSteelBlue;
+				border: 2px solid gray;
+        background-color:#ADD8E6; /*lightBlue*/
         color:black;
       }
 
+			#NextMeeting h3,#NextMeeting p{
+				font-size:20px;
+			}
+
+			.second_row{
+				padding-top: 60px;
+			}
+
       .second_row h3, h2{
-        color:#00E; /* Blue header text to match background of NextMeeting */
+        color:#005596; /* Blue header text to match background of NextMeeting */
         font-family:"Courier New", Courier, monospace; /* monospace typeface */
         font-weight:500;
       }
@@ -69,6 +78,11 @@
          * keeps the text more compact and easier to read */
         line-height:1.3em; 
       }
+
+			.subsection h3{
+				margin:0;
+				margin:.25em 0;
+			}
 
       .subsection{
         padding-bottom:5px;
