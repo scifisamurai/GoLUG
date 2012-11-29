@@ -29,7 +29,7 @@
       h2,h3{
         /* Stick with the same typeface as our main site 
          * header, but use a different font for emphasis */
-        font-family:"Courier";
+        font-family:"Courier New", Courier, monospace; /* monospace typeface */
       }
 
       .content {
