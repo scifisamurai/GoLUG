@@ -11,13 +11,8 @@
       }
 
       .header {
-        /* The monospace typeface is used because 
-         * it's available on Linux, Mac, & Windows. 
-         *
-         * It also looks like a typewriter font.  
-         *
-         * This will hopefully convey the feeling 
-         * of technology to the end user */
+        /* The monospace typeface is used to help
+         * convey the feeling of technology to the end user */
         font-family:"Courier New", Courier, monospace; /* monospace typeface */
         font-size:23px;
         padding:30px 0;
@@ -44,7 +39,7 @@
       }
 
       .second_row h3, h2{
-        color:#00E;
+        color:#00E; /* Blue header text to match background of NextMeeting */
         font-family:"Courier New", Courier, monospace; /* monospace typeface */
         font-weight:500;
       }
