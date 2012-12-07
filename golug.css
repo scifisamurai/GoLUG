@@ -1,8 +1,12 @@
       body {
         color:#505050;
 
-        font-family:"Helvetica Neue", Helvetica, Arial, "san-serif"; /* sans-serif font to enable easy reading by users */
-        font-size:14px;
+        /*font-family:"Helvetica Neue", Helvetica, Arial, "san-serif"; /* sans-serif font to enable easy reading by users */
+
+				/*The below actually seems to work */
+        font-family:"Courier New", Courier, monospace; /* monospace typeface */
+
+        font-size:15px;
         width:100%;
       }
       
